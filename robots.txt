@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /
-User-agent: Googlebot
-Allow: /
-
-Sitemap: https://revlent.netlify.app/sitemap.xml
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.seoptimer.com/robots-txt-generator
